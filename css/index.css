@@ -483,9 +483,6 @@ background-color: black;
     .courseWrapper{
         justify-content: center;
     }
-    .logoutBtn{
-        margin-bottom: 2rem;
-    }
 }
 
 @media (max-width:768px){
